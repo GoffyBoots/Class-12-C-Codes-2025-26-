@@ -1,3 +1,5 @@
+//Write a C++ program in which a class uses both public and private access specifiers.
+
 #include <iostream>
 using namespace std;
 
