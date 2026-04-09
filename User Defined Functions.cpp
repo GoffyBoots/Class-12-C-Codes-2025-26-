@@ -1,3 +1,6 @@
+/*Write a program involving user defined function to perform basic arithmetic
+operations, i.e. add, subtract, multiply and divide.*/
+
 #include <iostream>
 using namespace std;
 
