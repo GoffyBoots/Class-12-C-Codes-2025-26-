@@ -1,3 +1,6 @@
+/*Write a simple program using & to return memory address of a variable and storing it
+in a pointer variable. */
+
 #include <iostream>
 using namespace std;
 
