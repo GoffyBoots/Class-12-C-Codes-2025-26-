@@ -1,3 +1,7 @@
+/*Write a C++ program to declare a class along with data members and member
+functions in its body and create the objects of class in the main( ) function and call
+member functions of class with the help of objects. */
+
 #include <iostream>
 using namespace std;
 
