@@ -1,3 +1,5 @@
+/*Write a C++ program that uses pointer variable*/
+
 #include <iostream>
 using namespace std;
 
