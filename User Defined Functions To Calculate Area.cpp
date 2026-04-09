@@ -1,3 +1,6 @@
+/*Write a program involving user defined function to calculate area of circle, triangle
+and parallelogram.*/
+
 #include <iostream>
 using namespace std;
 
