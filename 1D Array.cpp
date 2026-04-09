@@ -1,3 +1,6 @@
+/*Write a C++ program which stores numeric values in a one dimensional array using 
+for loop and fin-ds the highest, lowest and average values.*/
+
 #include <iostream>
 using namespace std;
 
