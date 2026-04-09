@@ -1,3 +1,5 @@
+/*Write a program involving user defined function to calculate average of numbers.*/
+
 #include <iostream>
 using namespace std;
 
